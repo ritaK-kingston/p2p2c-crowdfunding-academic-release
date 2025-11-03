@@ -300,7 +300,7 @@ This repository is maintained for academic transparency and reproducibility. If 
 
 ## License
 
-Copyright 2024 [Author Names]
+Copyright 2024 [Rita Kottasz, Matthew Wade, Claire van Teunenbroek]
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
