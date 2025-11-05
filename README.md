@@ -1,4 +1,4 @@
-# Academic Release: Crowdfunding Motivation Classification
+# Crowdfunding Motivation Classification
 
 This repository contains the complete, reproducible methodology and scripts for analyzing motivational content in crowdfunding narratives using a BERT-based ensemble approach. All scripts have been carefully cleaned to remove credential references and can be run with publicly available data. This repository provides everything needed to replicate the data collection, preprocessing, classification, and validation procedures described in the associated research.
 
